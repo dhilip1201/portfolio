@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name": "Dhilip Kumar",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer by Day",
+    "image": "dhilip.jpg",
+    "bio": "My name is Dhilip Kumar, I'm a Full Stack ReactJS Developer. Currently I'm working at freelancer.While also coaching Students",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "dhilipbeece006@gmail.com",
+    "phone": "+91 887 084 7064",
+    "address": {
+      "street": "2/155, palaghat main road, pollachi",
+      "city": "Coimbatore",
+      "state": "TamilNadu",
+      "zip": "642005"
+    },
+    "website": "#",
+    "resumedownload": "https://drive.google.com/file/d/18Mv3Q62a1G4kpMCyt0_wk9AuXGXUhO6i/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/danger.dhilip",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dhilip-kumar-5103b875/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dhilipbeece006/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dhilip1201",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Govt Hr sec School, Ramanathapuram",
+        "degree": "Masters in Advanced Electronics & Communications Engineering",
+        "graduated": "June 2014",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "freelancer",
+        "title": "Web Developer && React Specialist",
+        "years": "March 2020 - Present",
+        "description": "Developing New Structure using React JS"
+      },
+      {
+        "company": "Gradvalley Data Science",
+        "title": "Web Developer && PHP Specialist",
+        "years": "Nov 2016 - October 2018",
+        "description": "Building Annotate website, Hospital Management Projects, etc..."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "99%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe PHotoshop CSS5",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "Amazon.png",
+        "url": "https://dhilip-amazan-project.web.app/"
+
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Covid 19 Tracker with Firebase ",
+        "image": "Covid-19-Screenshot.png",
+        "url": "https://dhilip-covid-19-tracker.web.app/"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "Tik-tok.png",
+        "url": "https://tik-tok-clone-ec679.web.app/"
+      },
+      {
+        "title": "Facebook Messanger with React",
+        "category": "Facebook Clone built with ReactJS and Google Authentication",
+        "image": "Facebook-Messanger.png",
+        "url": "https://dhilip-messanger-clone.web.app/"
+      },
+      {
+        "title": "Mobile Store",
+        "category": "Mobile Purchase built with ReactJS",
+        "image": "mobile-Screenshot.png",
+        "url": "https://dhilip-mobile-stores.netlify.app/"
+      },
+      {
+        "title": "Instgram Clone",
+        "category": "Instgram Clone built with ReactJS",
+        "image": "Instagram.png",
+        "url": "https://dhilip-instagram-clone.web.app/"
+      },
+      {
+        "title": "Slack Clone",
+        "category": "Slack Clone built with ReactJS",
+        "image": "Slack.png",
+        "url": "https://slack-clone-8e1fe.web.app/"
+
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "All our dreams can come true, if we have the courage to pursue them.” ",
+        "user": "-Walt Disney"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "-Steve Wozniak... impersonator"
+      },
+      {
+        "text": "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
+        "user": "-Winston Churchill"
+      }
+    ]
+  }
+}
